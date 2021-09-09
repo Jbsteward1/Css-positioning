@@ -1,0 +1,13 @@
+#container{
+    position: relative;
+    
+}
+
+
+.text{
+    position: absolute;
+    background-color: red;
+    top: 60px;
+    left: 100px;
+
+}
