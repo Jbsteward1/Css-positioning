@@ -1,13 +1,16 @@
-#container{
-    position: relative;
-    
+body{
+    margin: 0;
+    overflow: scroll;
 }
 
+.header{
+    position: fixed;
+    font-size: xx-large;
+    color: rgb(1, 5, 15);
+    background-color: rgb(243, 19, 19);
+    width: 100%;
+    top: 0;
+    padding: 20px;
 
-.text{
-    position: absolute;
-    background-color: red;
-    top: 60px;
-    left: 100px;
 
 }
